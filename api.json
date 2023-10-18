@@ -1,0 +1,23 @@
+{
+    "produtos":[
+        {
+            "imagePath": "https://images.unsplash.com/photo-1559496417-e7f25cb247f3?auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGNvZmZlfGVufDB8fDB8fHww&w=400",
+            "nome": "café",
+            "preco": 4,
+            "id": 1
+        },
+        {
+            "imagePath": "https://images.unsplash.com/photo-1605789538467-f715d58e03f9?auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Y2hlZXNlJTIwYnVyZ2VyfGVufDB8fDB8fHww&w=400",
+            "nome": "x-salada",
+            "preco": 19,
+            "id": 2
+        },
+        {
+            "imagePath": "https://images.unsplash.com/photo-1628840042765-356cda07504e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxjb2xsZWN0aW9uLXRodW1ibmFpbHx8S2NLWEFQbG9xQW98fGVufDB8fHx8fA%3D%3D&dpr=1&auto=format&fit=crop&w=294&h=294&q=60",
+            "nome": "pizza",
+            "preco": 90,
+            "id": 3
+        
+        }
+    ]
+}
