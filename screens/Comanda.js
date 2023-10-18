@@ -1,10 +1,11 @@
-import { StyleSheet, Text, View } from "react-native";
+import { Image, StyleSheet, Text, View } from "react-native";
 import Button from "../components/button";
 import Input from "../components/input";
 
 export default function Comanda({navigation}){
     return(
         <View style={styles.container}>
+            <Image style={styles.image} source={require('../assets/home.jpg')} />
             <View>
                 <Text>Olá, Atendente</Text>                
             </View>
@@ -32,4 +33,10 @@ const styles = StyleSheet.create({
       alignItems: 'center',
       justifyContent: 'center',
     },
+    image: {
+        height: 200,
+        width: '100%',
+        position: 'absolute',
+        top: 0,
+      }
 })
