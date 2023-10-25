@@ -19,5 +19,19 @@
             "id": 3
         
         }
+    ],
+    "usuarios": [
+        {
+            "id": 1,
+            "nome": "Victor",
+            "email": "victor@fiap.com",
+            "senha": "1234"
+        },
+        {
+            "id": 1,
+            "nome": "Victor",
+            "email": "victor@fiap.com",
+            "senha": "1234"
+        }
     ]
 }

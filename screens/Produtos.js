@@ -32,7 +32,7 @@ export default function Produtos() {
 
                 <View style={styles.box}>
                     <Text>comanda</Text>
-                    <Text style={styles.title}>2457</Text>
+                    <Text style={styles.title}>9999</Text>
                 </View>
             </View>
 
@@ -40,15 +40,15 @@ export default function Produtos() {
                 <Text style={styles.subtitle}>Pedido</Text>
                 <View style={styles.pedidoData}>
                     <Text>Saldo da comanda</Text>
-                    <Text>R$ 0,00</Text>
+                    <Text>R$ 100,00</Text>
                 </View>
                 <View style={styles.pedidoData}>
                     <Text>Total do pedido</Text>
-                    <Text>R$ +20,00</Text>
+                    <Text>R$ +75,90</Text>
                 </View>
                 <View style={styles.pedidoDataTotal}>
                     <Text>Saldo final</Text>
-                    <Text>R$ 149,00</Text>
+                    <Text>R$ 1420,00</Text>
                 </View>
             </View>
 
